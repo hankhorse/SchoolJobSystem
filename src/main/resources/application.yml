@@ -10,7 +10,7 @@ spring:
     url: jdbc:mysql://42.194.222.130:3306/job?characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai&rewriteBatchedStatements=true
     username: root
     #    password: 123456
-    password: '2425cbe96776bcf5'
+    password: '123'
     driver-class-name: com.mysql.cj.jdbc.Driver
     hikari:
       max-lifetime: 500000
